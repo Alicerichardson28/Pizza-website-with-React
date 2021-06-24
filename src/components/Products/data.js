@@ -73,3 +73,54 @@ export const productData = [
     button: "Add to Cart",
   },
 ];
+
+export const productData2 = [
+  {
+    img: "https://p300-americantownscom.netdna-ssl.com/img/article/co-dessert-spots-1.jpg",
+    alt: "dessert",
+    name: "Brownie fudge",
+    desc: "A chocolate brownie or simply a brownie is a square or rectangular chocolate baked confection",
+    price: "$6.99",
+    button: "Add to Cart",
+  },
+  {
+    img: "https://www.mybakingaddiction.com/wp-content/uploads/2021/01/plated-tiramisu-720x720.jpg",
+    alt: "dessert",
+    name: "Tiramisu",
+    desc: "coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee.",
+    price: "$8.99",
+    button: "Add to Cart",
+  },
+  {
+    img: "https://assets.dualit.com/images/article/70440-carrot-cake.jpg",
+    alt: "dessert",
+    name: "Carrot Cake",
+    desc: "Carrot cake is cake that contains carrots mixed into the batter. Most modern carrot cake recipes have a white cream cheese frosting.",
+    price: "$9.99",
+    button: "Add to Cart",
+  },
+  {
+    img: "https://easyhealthyrecipes.com/wp-content/uploads/2021/03/Vegan-Key-Lime-Pie-3.jpg",
+    alt: "dessert",
+    name: "Key lime pie",
+    desc: "This key lime pie is made with premium creamy, slightly sour, and not too sweet!",
+    price: "$8.99",
+    button: "Add to Cart",
+  },
+  {
+    img: "https://www.livewellbakeoften.com/wp-content/uploads/2019/04/Edible-Cookie-Dough-7.jpg",
+    alt: "dessert",
+    name: "Cookie dough",
+    desc: "Cookie dough refers to an un-cooked blend of cookie ingredients.",
+    price: "$8.99",
+    button: "Add to Cart",
+  },
+  {
+    img: "https://sugargeekshow.com/wp-content/uploads/2020/04/strawberry-shortcake-featured.jpg",
+    alt: "dessert",
+    name: "strawberry shortcake",
+    desc: "Shortcake is a sweet cake or biscuit in the American sense that is a crumbly bread that has been leavened with baking powder or baking soda. ",
+    price: "$9.99",
+    button: "Add to Cart",
+  },
+];
