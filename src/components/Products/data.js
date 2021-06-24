@@ -74,7 +74,7 @@ export const productData = [
   },
 ];
 
-export const productData2 = [
+export const productDataTwo = [
   {
     img: "https://p300-americantownscom.netdna-ssl.com/img/article/co-dessert-spots-1.jpg",
     alt: "dessert",
