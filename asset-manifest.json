@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Pizza-website-with-React/static/js/main.846108f6.chunk.js",
+    "main.js.map": "/Pizza-website-with-React/static/js/main.846108f6.chunk.js.map",
+    "runtime-main.js": "/Pizza-website-with-React/static/js/runtime-main.41343353.js",
+    "runtime-main.js.map": "/Pizza-website-with-React/static/js/runtime-main.41343353.js.map",
+    "static/js/2.011ef0a6.chunk.js": "/Pizza-website-with-React/static/js/2.011ef0a6.chunk.js",
+    "static/js/2.011ef0a6.chunk.js.map": "/Pizza-website-with-React/static/js/2.011ef0a6.chunk.js.map",
+    "static/js/3.2dcef718.chunk.js": "/Pizza-website-with-React/static/js/3.2dcef718.chunk.js",
+    "static/js/3.2dcef718.chunk.js.map": "/Pizza-website-with-React/static/js/3.2dcef718.chunk.js.map",
+    "index.html": "/Pizza-website-with-React/index.html",
+    "static/js/2.011ef0a6.chunk.js.LICENSE.txt": "/Pizza-website-with-React/static/js/2.011ef0a6.chunk.js.LICENSE.txt",
+    "static/media/feature-section.8ba85c9a.jpeg": "/Pizza-website-with-React/static/media/feature-section.8ba85c9a.jpeg",
+    "static/media/pizza-3.0bc3e3d5.jpeg": "/Pizza-website-with-React/static/media/pizza-3.0bc3e3d5.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41343353.js",
+    "static/js/2.011ef0a6.chunk.js",
+    "static/js/main.846108f6.chunk.js"
+  ]
+}
